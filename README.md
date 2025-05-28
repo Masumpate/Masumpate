@@ -9,7 +9,7 @@
 - 🧠 I’m improving my skills in **DSA, JavaScript, and Frontend Development**
 - 💻 I enjoy building responsive and user-friendly web interfaces
 - 👨‍💻 I code in **C, C++**, and love solving algorithmic challenges
-- 📫 Reach me at: **masumpatel@example.com**
+- 📫 Reach me at: **masumpatel.8181@gmail.com**
 - ⚡ Fun fact: _I debug more than I sleep 😅_
 
 ---
